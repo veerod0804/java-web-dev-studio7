@@ -13,7 +13,6 @@ public abstract class BaseDisc {
         this.capacity = capacity;
 //        this.contents = contents;
         this.discType = discType;
-
-
     }
+
 }

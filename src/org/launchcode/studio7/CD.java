@@ -14,8 +14,6 @@ public class CD extends BaseDisc implements OpticalDisc {
         System.out.println("A CD spins at a rate of 200 - 500 rpm.");
     }
 
-    ;
-
     @Override
     public void readData() {
         System.out.println("CD is now playing");
